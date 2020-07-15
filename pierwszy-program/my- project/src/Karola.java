@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+
 public class Karola {
     public static void main(String... args) {
         System.out.println("Witaj w programi");
@@ -15,6 +16,8 @@ public class Karola {
                 + string.charAt(index) + "na pozycji"
                 + index);
     }
+    
+    
 }
 
 
