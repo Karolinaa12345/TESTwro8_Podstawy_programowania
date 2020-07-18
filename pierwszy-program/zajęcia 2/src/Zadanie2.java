@@ -14,7 +14,7 @@ public class Zadanie2 {
       boolean result = a != b;
       String message = "a != b to" + result;
       System.out.println(message);
-      System.out.println("c <= b to"+ (c <= b );
+      System.out.println("c <= b to"+ (c <= b ));
       
         
        
