@@ -100,3 +100,14 @@ Temat 6. będie pierwszym tematem wykładu teoretycznego w dniu 2.
 ## Zadania dodatkowe
    Gdy zdążymy przerobić cały materiał spróbujemy napisać kilka unit testów, w ramach:
    [Listy E1](./zadania/E1_lista_dodatkowa.md)
+
+## zadania z zajęć 2
+   Można już znaleźć rozwiązania zadań z zajęć 2 z komentarzami:
+   [Zadanie 1](./lesson2/src/StringComparator.java)
+   [Zadanie 2](./lesson2/src/Zadanie2.java)
+   [Zadanie 3](./lesson2/src/Zadanie3.java)
+   [Zadanie 4](./lesson2/src/Zadanie4.java)
+   [Zadanie 5](./lesson2/src/Zadanie5.java)
+   [Zadanie 6](./lesson2/src/Zadanie6.java)
+   [Zadanie 7](./lesson2/src/pl/sda/humans/Human.java)
+   [Zadanie 8](./lesson2/src/pl/sda/test/Test.java)
