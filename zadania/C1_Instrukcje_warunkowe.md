@@ -12,7 +12,7 @@ niż 18 lat a nieletnich poprosi o powrót do domu.
 5. W przeciwnym przypadkuę proszę wypisać tekst, który sugeruje powrót do
    domu
 
-# 2. Typ wyliczeniowego (10 min)
+# 2. Wykorzystanie typu wyliczeniowego w switch (10 min)
 
 1. Proszę stworzyć klasę z nowym programem
 2. Proszę o stworzenie typu wyliczeniowego Animals, który będzie
